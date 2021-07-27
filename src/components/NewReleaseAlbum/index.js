@@ -1,5 +1,4 @@
 import {Component} from 'react'
-import moment from 'moment'
 import {BsArrowLeft} from 'react-icons/bs'
 import SongItem from '../SongItem'
 
