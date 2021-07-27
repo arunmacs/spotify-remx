@@ -5,7 +5,7 @@ import './index.css'
 const SongItem = props => {
   const {songData} = props
   console.log(songData)
-  const {album, artists, durationMs, name} = songData
+  const {artists, durationMs, name} = songData
   //   let thumbNail
 
   //   if (album.images) {
